@@ -1,0 +1,27 @@
+.home {
+    background-image: url(../../../assets/img/13.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home .container .box {
+    position: absolute;
+    top: 65%;
+    left: 10%;
+    color: var(--white);
+}
+
+.home .container .box h1 {
+    font-size: 30px;
+}
+
+.home .container .box p {
+    font-size: 16px;
+}
+
+.home .container .box a {
+    position: absolute;
+    top: 100%;
+}

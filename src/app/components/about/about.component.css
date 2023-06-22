@@ -1,0 +1,15 @@
+.about .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 3rem 5rem;
+}
+
+.about .container img {
+    height: 700px;
+    width: 700px;
+}
+
+.about .container .text p {
+    margin: 3rem 5rem;
+}
